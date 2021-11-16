@@ -10,4 +10,4 @@
 <p>Será necessário hospedar o backend e criar o banco em um servidor externo.</p>
 
 <h2>Funcionalidades</h2>
-<p>Criado com o objetivo de ser possível realizar cadastros e consultas de dados de pessoas físicas e jurídicas. Os cadastros podem ser feitos por qualquer pessoa e as consultas a partir de login previamente salvo no banco de dados. Validações feitas com PHP e jQuery.</p>
+<p>Criado com o objetivo de ser possível realizar cadastros e consultas de dados de pessoas físicas e jurídicas. Os cadastros podem ser feitos por qualquer pessoa e as consultas a partir de login previamente salvo no banco de dados. O cadastro de PJ é facilitado a partir da busca dos dados de uma API. É possível alterar e deletar os registros, sendo que as validações foram feitas com PHP e jQuery.</p>
