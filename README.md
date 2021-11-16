@@ -1,4 +1,4 @@
-# CRUD PF PJ
+# CRUD - PF & PJ
  
 <h2>Uso local</h2>
 <p><b>Requisitos necessários:</b> instalação do <a href="https://www.apachefriends.org/index.html" target="_blank">XAMPP</a> (PHP + Apache) e <a href="https://dev.mysql.com/downloads/installer/" target="_blank">MySQL</a>.</p>
